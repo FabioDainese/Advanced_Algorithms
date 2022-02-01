@@ -1,5 +1,5 @@
 # Introduction
-This repository has been created with the aim of storing all the material produced for the '*Advanced Algorithms and Programming Methods*' course, for both the ***theoretical*** (*cliffsnotes*) and ***practical*** (*tasks/assignments*) parts.
+This repository has been created with the aim of storing all the material produced for the '*Advanced Algorithms and Programming Methods*' course for both the ***theoretical*** (*cliffsnotes*) and ***practical*** (*tasks/assignments*) parts.
 
 All the material was developed for the '*Advanced Algorithms and Programming Methods*' [Ca' Foscari University](https://www.unive.it) master's degree course in '*Software Dependability and Cyber Security*' (2019/2020).
 
