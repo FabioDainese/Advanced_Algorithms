@@ -29,7 +29,7 @@ The data should be maintained in a consecutive area. The template specification 
 * **Stride**: distance in the next element of this index
 * **Width**: number of entries for this index
 
-For example a rank 3 tensor of size $(3,4,5)$ represented in right-major order will have strides $(20,5,1)$ and width $(3,4,5)$. Entry $(i,j,k)$ will be at index $(20 \cdot i+5 \cdot j+1 \cdot k)$ in the flat storage.
+For example a rank 3 tensor of size (3,4,5) represented in right-major order will have strides (20,5,1) and width (3,4,5). Entry (i,j,k) will be at index (20 \* i + 5 \* j + 1 \* k) in the flat storage.
 
 # Solution
 The developed solution is available inside the [*output*](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/1/Output/) folder. For a more detailed explanation about it, feel free to take a look at the [documentation](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/1/Output%20documentation.pdf) file.
