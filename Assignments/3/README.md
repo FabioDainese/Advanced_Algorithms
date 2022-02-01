@@ -9,7 +9,6 @@ Each thread computes the operations for a given range of non-repeated indices, w
 
 ## Explanation of "*Concurrency and Parallelism*"
 
-> <br/>
 > Extend the matrix library so that the operations can be performed concurrently.
 > 
 > There are two forms of concurrency to be developed:
@@ -20,8 +19,6 @@ Each thread computes the operations for a given range of non-repeated indices, w
 With this optimization matrix $A$ is composed of several sub-matrices ($A_{ij}$), each fetched with a single polymorphic call. Matrix multiplication can be expressed easily in this form, so $C=A \cdot B$ becomes $C_{ij} = ∑_{k} (A_{ik} \cdot C_{kj})$, where now '$\cdot$' denotes the usual matrix multiplication for the sub-matrices. 
 Now, each $C_{ij}$ can be computed independently from the other and in parallel.
 >
-> <br/>
-<br/>
 
 # Solution
 The developed solution is available inside the [*output*](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/3/Output/) folder. For a more detailed explanation about it, feel free to take a look at the [documentation](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/3/Output%20documentation.pdf) file.
