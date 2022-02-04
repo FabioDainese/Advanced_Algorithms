@@ -22,4 +22,4 @@ The operations should work with dynamically ranked tensors as well as fixed-rank
 **Hint**: Define index types. Indexing operations with index types should return proxy objects that allow deferred operations and conversion to the correct tensor type.
 
 # Solution
-The developed solution is available inside the [*output*](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/2/Output/) folder. For a more detailed explanation about it, feel free to take a look at the [documentation](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/2/Output%20documentation.pdf) file.
+The developed solution is available inside the [*output*](https://github.com/FabioDainese/Advanced_Algorithms/tree/main/Assignments/2/Output/) folder. For a more detailed explanation about it, feel free to take a look at the [documentation](https://github.com/FabioDainese/Advanced_Algorithms/tree/main/Assignments/2/Output%20documentation.pdf) file.
