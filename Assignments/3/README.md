@@ -21,4 +21,4 @@ Now, each C_{ij} can be computed independently from the other and in parallel.
 >
 
 # Solution
-The developed solution is available inside the [*output*](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/3/Output/) folder. For a more detailed explanation about it, feel free to take a look at the [documentation](https://github.com/FabioDainese/Advanced_Algorithms/tree/master/Assignments/3/Output%20documentation.pdf) file.
+The developed solution is available inside the [*output*](https://github.com/FabioDainese/Advanced_Algorithms/tree/main/Assignments/3/Output/) folder. For a more detailed explanation about it, feel free to take a look at the [documentation](https://github.com/FabioDainese/Advanced_Algorithms/tree/main/Assignments/3/Output%20documentation.pdf) file.
